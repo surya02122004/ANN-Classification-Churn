@@ -1,7 +1,6 @@
-tensorflow==2.15
+streamlit
+tensorflow==2.15.0
+scikit-learn
 pandas
 numpy
-scikit-learn
-tensorboard
-matplotlib
-streamlit
+joblib
